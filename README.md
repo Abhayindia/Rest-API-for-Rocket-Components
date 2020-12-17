@@ -1,6 +1,6 @@
 <p align="center"><img src="https://live.staticflickr.com/65535/49185149122_37f5c52e43_k.jpg"></p>
 
-<h1 align="center">SpaceX REST API</h1>
+<h1 align="center">REST API for Spacecraft Modules</h1>
 
 <h3 align="center">
 Open Source REST API for rocket, core, capsule, pad, and launch data
